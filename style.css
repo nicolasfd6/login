@@ -885,6 +885,7 @@ body.light-mode .video-bg:before {
 ::-webkit-scrollbar {
   width: 6px;
   border-radius: 10px;
+  display: none;
 }
 
 ::-webkit-scrollbar-thumb {
